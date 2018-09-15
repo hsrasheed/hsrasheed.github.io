@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Analyzing File Statistics for an Azure Data Lake Store"
+---
+
 # Analyzing File Statistics for an Azure Data Lake Store
 ## Part 1
 ### Overview
