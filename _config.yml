@@ -1,1 +1,22 @@
+title:              GitHub Blog of Hassan Rasheed
+tagline:            
+description:        Code and Projects in Big Data and Data Science
+url:                http://hsrasheed.github.io
+
+author:
+  name:             Hassan Rasheed, PhD
+  url:              https://twitter.com/YourName
+  email:            rasheedhs@gmail.com
+
+# GitHub Pages / Jekyll configuration
+baseurl:            ''
+permalink:          /:title/
+paginate:           5
+defaults:
+  -
+    scope:
+      path:         ''
+    values:
+      layout:       post
+
 theme: jekyll-theme-cayman

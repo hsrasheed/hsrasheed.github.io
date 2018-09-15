@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Analyzing File Statistics for an Azure Data Lake Store"
 ---
 
