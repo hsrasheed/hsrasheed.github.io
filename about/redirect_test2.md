@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset=utf-8>
-    <title>Redirecting...</title>
-    <link rel=canonical href="https://docs.microsoft.com/azure/hdinsight/">
-    <meta http-equiv=refresh content="1; url=https://docs.microsoft.com/azure/hdinsight/">
-  </head>
-  <body>
-    <h1>Redirecting...</h1>
-    <a href="https://docs.microsoft.com/azure/hdinsight/">Click here if you are not redirected.</a>
-    
-    <h2> Here is the old content</h2>
-  </body>
-</html>
+# Test MD file
+
+## Some content here
